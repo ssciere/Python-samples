@@ -1,6 +1,6 @@
-"""This is a set of problems from the #100DaysOfCode in Python program (purchased from the "Talk Python to Me" Podcast)
+"""This is a set of problems from the "#100DaysOfCode in Python" program (purchased from the "Talk Python to Me" Podcast)
 
-nstructions: Given the provided cars dictionary:
+Problems: Given the provided cars dictionary:
 
 Get all Jeeps
 Get the first car of every manufacturer.
