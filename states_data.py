@@ -1,4 +1,4 @@
-#!python3
+#This file is for use with the data_structures_state_abbreviations.py program in this same repo
 
 us_state_abbrev = {
     'Alabama': 'AL',
