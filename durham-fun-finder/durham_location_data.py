@@ -1,6 +1,9 @@
 
-""""possible_destinations" is a dictionary that contains keys that are various placed in Durham, and values that are tuples that contain ratings (1-10) for each
-of the questions in the list named "possible_destinations".  This data is for use with the durham_fun_finder.py file in this same directory
+
+""""This data is for use with the durham_fun_finder_main.py file in the same directory
+
+"possible_destinations" is a dictionary that contains keys that are various placed in Durham, and values that are tuples that contain ratings (1-10) for each
+of the questions in the list named "possible_destinations".  
 
 FYI - I chose tuples since the chance of the dictionary growing is greater than the chance the program will ever need to alter the data
 If additional questions need to be added, the data can just be changed without updating the program as long as the locations all have the same number
